@@ -37,3 +37,4 @@ public class Romain {
 		minus.recevoirCoup(3);
 	}
 }
+
