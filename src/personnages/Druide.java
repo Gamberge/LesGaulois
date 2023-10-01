@@ -6,7 +6,6 @@ public class Druide {
 	private String nom;
 	private int effetPotionMin;
 	private int effetPotionMax;
-	private int forcePotion;
 	
 	public Druide(String nom, int effetPotionMin, int effetPotionMax) {
 		this.nom = nom;
